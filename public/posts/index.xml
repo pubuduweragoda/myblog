@@ -5,6 +5,19 @@
     <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Algonotion</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 22 Mar 2025 12:54:35 +0530</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Career Options for Math majors</title>
+      <link>http://localhost:1313/posts/math_career_options/</link>
+      <pubDate>Sat, 22 Mar 2025 12:54:35 +0530</pubDate>
+      
+      <guid>http://localhost:1313/posts/math_career_options/</guid>
+      
+      <description>Career options for math majors During my first year of university, I was really conflicted between majoring in physics vs mathematics. So, I ended up doing some research into the career options that maybe available after majoring in mathematics.
+Different career paths research Mathematical physicist Data Analytics and data science machine learning (could be counted under data science) finance related fields financial analyst actuary investment banker insurance software engineering computer scientist Military/defense industry Military intelligence Combat engineer etc Game development Oil/Gas/Power industry Computer engineering cyber security Predictive modeling hydrology Cryptography adjunct instructor Algorithm optimization/development operations research analyst Engineering jobs pilot Operations Research Conclusion It is important to note that these are not garanteed career options.</description>
+      
+    </item>
+    
   </channel>
 </rss>
