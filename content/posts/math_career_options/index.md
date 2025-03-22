@@ -4,8 +4,6 @@ date = 2025-03-22T12:54:35+05:30
 draft = false
 +++
 
-# Career options for math majors
-
 During my first year of university, I was really conflicted between majoring in physics vs mathematics. So, I ended up doing some research into the career options that maybe available after majoring in mathematics.
 
 ## Different career paths
