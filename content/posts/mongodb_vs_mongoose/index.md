@@ -4,8 +4,6 @@ date = 2025-03-22T13:01:09+05:30
 draft = false
 +++
 
-# MongoDB vs. Mongoose: Which one to use on your Express JS project?
-
 Mongoose is an Object Data Modelling library made on top of the MongoDB native driver for Nodejs. While it's lacking in terms of performance compared to using MongoDB directly, it allows developers to build applications faster.
 
 First of all, I need to clarify, MongoDB and MongoDB server are not the same. Here, MongoDB is referring to the `mongodb` npm package. MongoDB server on the other hand is installed on the server, as a service.
