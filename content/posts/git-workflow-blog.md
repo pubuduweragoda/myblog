@@ -1,4 +1,8 @@
-# Git workflow and git basics
++++
+title = 'Git workflow and git basics'
+date = 2025-06-28T08:14:09+05:30
+draft = false
++++
 
 This is simple overview of the git workflow that I've been using for a while. This is by no means a fixed set of rules. I will be updating things over time as I incorporate new ideas and insights. This is to help set a basic convention that is easy to follow.
 
